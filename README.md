@@ -18,9 +18,5 @@ A simple weather application that fetches real-time weather data for any city us
 2. Click the "Search" button to fetch the weather data.
 3. The app displays the city's temperature, weather condition, and humidity.
 
-## Setup
-1. Get your API key from [OpenWeatherMap](https://openweathermap.org/api).
-2. Replace `'YOUR_API_KEY'` in `script.js` with your actual API key.
-
 ## Live Demo
-Check out the app here: [Live Demo](#) 
+Check out the app here: [Live Demo]([#](https://connectpalash92.github.io/weather-app/)) 
