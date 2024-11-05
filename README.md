@@ -19,4 +19,4 @@ A simple weather application that fetches real-time weather data for any city us
 3. The app displays the city's temperature, weather condition, and humidity.
 
 ## Live Demo
-Check out the app here: [Live Demo((https://connectpalash92.github.io/weather-app/)) 
+Check out the app here: [Live Demo(https://connectpalash92.github.io/weather-app/)} 
