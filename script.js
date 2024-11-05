@@ -7,7 +7,7 @@ function fetchWeather() {
         return;
     }
 
-    const apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeatherMap API key
+    const apiKey = 'eb83922dff66b7cabd55c954f9f04d48'; // Replace with your OpenWeatherMap API key
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 
     fetch(apiUrl)
