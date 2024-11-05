@@ -1,2 +1,26 @@
-# weather-app
-A real-time Weather App that fetches current weather data by city name. Users can view temperature, weather conditions, and humidity. Built with HTML, CSS, and JavaScript, using the OpenWeatherMap API for live updates. Simple, responsive design for easy use on any device.
+# Weather App
+
+A simple weather application that fetches real-time weather data for any city using the OpenWeatherMap API. The app displays the temperature, weather condition, and humidity level.
+
+## Features
+- **City-based Search**: Enter a city name to get current weather information.
+- **Real-Time Data**: Fetches the latest weather data.
+- **Responsive Design**: Works on both desktop and mobile devices.
+
+## Technologies Used
+- **HTML5**: Structure and content.
+- **CSS3**: Styling and layout.
+- **JavaScript**: Dynamic functionality.
+- **OpenWeatherMap API**: For real-time weather data.
+
+## How to Use
+1. Enter the name of a city in the input field.
+2. Click the "Search" button to fetch the weather data.
+3. The app displays the city's temperature, weather condition, and humidity.
+
+## Setup
+1. Get your API key from [OpenWeatherMap](https://openweathermap.org/api).
+2. Replace `'YOUR_API_KEY'` in `script.js` with your actual API key.
+
+## Live Demo
+Check out the app here: [Live Demo](#) 
